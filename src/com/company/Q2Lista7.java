@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Q2Lista7 {
     public static String calcSemana(int codigoSemana) {
         switch(codigoSemana){
             case 1:
